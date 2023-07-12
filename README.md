@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Indrajit chandra
-- 👀 I’m interested in ...software programming 
+- 👀 I’m interested in ...web developing
 - 🌱 I’m currently learning ...MCA
 - 💞️ I’m looking to collaborate on ...major project
 - 📫 How to reach me ...
