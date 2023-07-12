@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a web developer and currently pursuing my MCA.
 
 - Web development
 - Front-end development
-- UI/UX design
+
 
 ## 🌱 Current Focus
 
