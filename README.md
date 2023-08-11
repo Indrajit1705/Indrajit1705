@@ -21,6 +21,6 @@ I'm open to collaborating on exciting web development projects and contributing 
 
 You can reach me via:
 - LinkedIn: [Indrajit Chandra](https://www.linkedin.com/in/indrajit-chandra-a948b8207/)
-- Email: indrajitchandra444gmail.com
+- Email: [indrajitchandra444gmail.com]
 
 Looking forward to connecting with you!
